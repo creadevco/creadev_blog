@@ -1,14 +1,11 @@
 # Site settings
 title: CreaDev's blog
 email: info@creadev.co
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: CreaDev es una empresa eficiente, innovadora y creativa en busca cada día de la excelencia. Creadev desarrolla, diseña e innova en desarrollo de páginas web, diseño gráfico y producción de fotografía y video. Creadev busca ofrecerle a cada cliente un producto de acuerdo a su necesidad.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "blog.creadev.co" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 twitter_username: creadev_co
-github_username:  roadev
+github_username:  creadevco
 
 # Build settings
 markdown: kramdown
