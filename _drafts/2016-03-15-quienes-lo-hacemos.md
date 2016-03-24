@@ -4,25 +4,16 @@ title:  "¿Quiénes hacen posible CreaDev?"
 date:   2016-03-15 16:50:07
 categories: about
 tags: nosotros colaboradores fundadores
-image: /images/pic01.jpg
+image: /images/banner_founders.png
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Jessica Giraldo
 
-Jekyll also offers powerful support for code snippets:
-**hola**
+#### CEO Jefe del departamento de Diseño.
 
-#adasd
+Tecnóloga en Producción Multimedial con especialización en ilustración creativa y habilidades en producción de contenidos digitales. Apasionada por su trabajo, amante de la ilustración y la aerografía. “Pienso que las grandes obras empiezan desde un papel y un lápiz antes de llegar a una pantalla.”
 
-##dasdaq223
+## Juan Roa
 
-###adadasf
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-
-<a href="jekyll">Jekyll Docs</a>
+#### CTO Director de tecnología / Desarrollador web
+Es desarrollador Full-stack Ruby on Rails. Skills: HTML5, CSS3, AngularJS, IonicJS, Jekyll. Tiene experiencia en desarrollo de apps web, móviles híbridas y sitios web responsive optimizados para Google Page Insights. Entusiasta ‪#‎Bitcoin‬, E-commerce manager.
