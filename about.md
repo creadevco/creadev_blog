@@ -2,11 +2,9 @@
 layout: no-about-page
 title: About
 permalink: /about/
-image: /images/pic02.jpg
+image: /images/logo.png
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+CreaDev es una empresa eficiente, innovadora y creativa en busca cada día de la excelencia. Creadev desarrolla, diseña e innova en desarrollo de páginas web, diseño gráfico y producción de fotografía y video. Creadev busca ofrecerle a cada cliente un producto de acuerdo a su necesidad.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[CreaDev.co](http://creadev.co)
