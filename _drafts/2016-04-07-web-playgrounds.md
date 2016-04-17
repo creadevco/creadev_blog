@@ -23,4 +23,4 @@ Edítame, ¡Soy un playground! (clic en Edit on CodePen)
 
 En este caso podemos ver el código HTML y CSS que genera la animación del sistema solar.
 
-Otro playground con el que podemos importar scripts y hojas de estilo además de tener varios archivos (como un IDE online prácticamente) y estar viendo el preview de lo que estamos trabajando es [Plunker](plnkr.co)
+Otro playground con el que podemos importar scripts y hojas de estilo además de tener varios archivos (como un IDE online prácticamente) y estar viendo el preview de lo que estamos trabajando es [Plunker](plnkr.co/edit)
