@@ -12,15 +12,13 @@
 			<div id="wrapper">
 
 				{% include head.html %}
-				<!-- Main -->
-					<div id="main">
+					<main id="main">
 
-						<!-- Post -->
             <article class="post">
               <header>
                 <div class="title">
                   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-                <!-- <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p> -->
+                  <!-- <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p> -->
                 </div>
                 <div class="meta">
                   <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%B %d, %Y" }}</time>
@@ -28,9 +26,9 @@
                     <a href="#">{{ category }}</a>
                   {% endfor %}
 
-        <!--
-        <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>
-        -->
+                  <!--
+                  <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>
+                  -->
                 </div>
               </header>
               {% if page.image %}
@@ -39,14 +37,9 @@
               {{ content }}
               <footer>
                 <ul class="stats">
-                {% for tag in page.tags limit:3 %}
-                  <li><a href="#">{{ tag }}</a></li>
-                {% endfor %}
-        <!--
-        <li><a href="#">General</a></li>
-        <li><a href="#" class="icon fa-heart">28</a></li>
-        <li><a href="#" class="icon fa-comment">128</a></li>
-        -->
+                  {% for tag in page.tags limit:3 %}
+                    <li><a href="#">{{ tag }}</a></li>
+                  {% endfor %}
                 </ul>
               </footer>
            </article>
@@ -62,27 +55,15 @@
   						  <li><a href="#" class="disabled button big next">Siguiente publicación</a></li>
   						{% endif %}
   					</ul>
-					</div>
+					</main>
 
-				<!-- Sidebar -->
 					<section id="sidebar">
-
-						<!-- Intro -->
 						{% include intro.html %}
-
-						<!-- Mini Posts -->
 						{% include miniposts.html %}
-
-						<!-- Posts List -->
-
-						<!-- About -->
 					  {% include about.html %}
-
-						<!-- Footer -->
 						{% include footer.html %}
 					</section>
 			</div>
-		<!-- Scripts -->
 		{% include scripts.html %}
 	</body>
 </html>
