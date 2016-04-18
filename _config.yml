@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "/" # the base hostname & protocol for your site
 twitter_username: creadev_co
 github_username:  creadevco
+instagram_username: creadev.co
+facebook_username: creadev.co
 
 # Build settings
 markdown: kramdown
@@ -15,3 +17,7 @@ paginate: 4
 author: CreaDev
 
 gems: [jekyll-paginate]
+
+sass:
+  sass_dir: _sass
+  style: :compressed
